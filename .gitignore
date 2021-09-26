@@ -1,0 +1,6 @@
+.idea/
+__pycache__/
+application_services/UsersResource/__pycache__/
+application_services/__pycache__/
+database_services/__pycache__/
+middleware/__pycache__/
